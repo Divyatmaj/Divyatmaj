@@ -1,6 +1,6 @@
 <!-- HERO TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=48&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=DIVYATMAJ.builds" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=48&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=DIVYATMAJ" />
 </p>
 
 <!-- SUBTLE LINE -->
