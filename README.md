@@ -59,7 +59,7 @@ I enjoy working across the stack, exploring AI/ML, and turning ideas into workin
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,go,rust" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
 </p>
 
 ### Frontend
