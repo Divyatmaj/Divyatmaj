@@ -1,179 +1,113 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=dark" width="100%" alt="Divyatmaj Tamhankar — profile" />
+  </picture>
 
-# DIVYATMAJ
+<h1>Divyatmaj Tamhankar</h1>
+<p><strong>Frontend or full-stack engineer</strong></p>
+<p>I’m a BTech AI/ML student focused on building things from scratch, from CLI tools to AI agents and developer tools. I work across C, C++, Go, Python, and JS</p>
+<p><sub>Based in D Y Patil Knowledge City, Charholi Budruk, via Lohegaon, Pune – 412105</sub></p>
 
-### Software Developer · AI/ML Enthusiast · Open Source
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>233</strong><br /><sub>Contributions</sub></td>
+</tr>
+</table>
 
-Building things, breaking things, and learning how they work.
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Development;Exploring+AI+%26+Machine+Learning;Learning+by+Building;Turning+Ideas+into+Code)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/DIVYATMAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/divyatmaj-tamhankar-117740360/?isSelfProfile=true)
-[![Profile Views](https://komarev.com/ghpvc/?username=DIVYATMAJ&style=flat-square&color=0d1117&label=PROFILE+VIEWS)](https://github.com/DIVYATMAJ)
-
+<p><a href="https://github.com/divyatmaj">GitHub</a></p>
 </div>
 
----
+<h2>Building in public</h2>
 
-<!-- ===================== ABOUT ===================== -->
-
-## `$ whoami`
-
-```javascript
-const divyatmaj = {
-    education: "BTech CSE (AI & ML)",
-    university: "Newton School of Technology",
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Backend Engineering",
-        "Open Source"
-    ],
-    currentlyLearning: [
-        "Prisma ORM",
-        "Advanced SQL",
-        "System Design",
-        "Machine Learning"
-    ],
-    motto: "Build. Learn. Iterate."
-};
-```
-
-I'm a computer science student interested in building practical software and understanding the systems behind it.
-
-I enjoy working across the stack, exploring AI/ML, and turning ideas into working projects.
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## `$ tech-stack`
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
-</p>
-
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## `$ currently_working_on`
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
-
-### Backend Development
-
-- Node.js and Express
-- REST API development
-- PostgreSQL
-- Prisma ORM
-- Authentication and databases
-
+<td width="62%" valign="top">
+<p>I’m a BTech AI/ML student focused on building things from scratch, from CLI tools to AI agents and developer tools. I work across C, C++, Go, Python, and JS</p>
+<p><strong>Focus:</strong> JavaScript · TypeScript · CSS</p>
+<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
 </td>
-<td width="50%">
-
-### AI & Machine Learning
-
-- Python and NumPy
-- Pandas
-- Machine learning fundamentals
-- Speech processing
-- Exploring AI applications
-
+<td width="38%" valign="top">
+<img src="https://www.gitskins.com/api/section/portrait?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Divyatmaj Tamhankar animated colored ASCII portrait" />
 </td>
 </tr>
 </table>
 
----
+<h2>What I’m shipping</h2>
 
-<!-- ===================== PROJECTS ===================== -->
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&items=JavaScript%3A%3A23%20public%20repositories%7CElectron-Desktop-Proctoring-Application%3A%3AA%20electron%20Js%20based%20proctoring%20application%20tha%7CImpact%3A%3A1%20stars%20%C2%B7%2064%20active%20days" width="100%" alt="Highlights" />
+</p>
 
-## `$ projects`
+<h2>Featured work</h2>
 
-A few projects from my development journey.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Divyatmaj/Electron-Desktop-Proctoring-Application"><strong>Electron-Desktop-Proctoring-Application</strong></a></h3>
+<p>A electron Js based proctoring application that detects if the tabs are switched, ctrl+x or ctrl+q is pressed or some other activities are performed t</p>
+<p><sub>JavaScript · ⭐ 1 stars · 0 forks</sub></p>
+<p><a href="https://github.com/Divyatmaj/Electron-Desktop-Proctoring-Application">View project →</a></p>
+</td>
+</tr>
+</table>
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Snake Game](https://github.com/DIVYATMAJ/SNAKE-GAME) | A classic Snake game built as a programming project. | JavaScript |
-| [SNW Project Website](https://github.com/DIVYATMAJ/SNW-Project-Website) | A web development project. | HTML, CSS, JavaScript |
-| [Git Size](https://github.com/DIVYATMAJ) | A CLI tool for analyzing Git repository sizes. | Node.js |
+<h2>Selected work</h2>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Divyatmaj/Electron-Desktop-Proctoring-Application"><strong>Electron-Desktop-Proctoring-Application</strong></a></h3>
+<p>A electron Js based proctoring application that detects if the tabs are switched, ctrl+x or ctrl+q is pressed or some other activities are performed t</p>
+<p><sub>JavaScript · ⭐ 1</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Divyatmaj/Student-Dropout-Prevention-System"><strong>Student-Dropout-Prevention-System</strong></a></h3>
+<p>An intelligent student dropout prevention platform that identifies at-risk students through academic and attendance analytics, enabling educators to p</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/Divyatmaj/Yappy-Messenger-App-Mobile-"><strong>Yappy-Messenger-App-Mobile-</strong></a></h3>
+<p>A Messenger App made using React Native, My first ever mobile application experimenting the basics of React Native</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+</td>
+</tr>
+</table>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<h2>Signal</h2>
 
-## `$ github_stats`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4" width="100%" alt="1 stars across 23 repositories" />
+</p>
 
-<div align="center">
+<h2>Stack</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DIVYATMAJ&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4" width="100%" alt="Language stack" />
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DIVYATMAJ&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<h2>Activity</h2>
 
-<br/><br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=dark" width="100%" alt="233 contributions in the last year" />
+  </picture>
+</p>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYATMAJ&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<hr />
 
-</div>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/divyatmaj">GitHub</a></td>
+</tr>
+</table>
 
----
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-## `$ contributions`
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/DIVYATMAJ/DIVYATMAJ/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## `$ connect`
-
-<div align="center">
-
-I'm always interested in collaborating, building projects, and learning from other developers.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DIVYATMAJ-181717?style=for-the-badge&logo=github)](https://github.com/DIVYATMAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-
-<br/><br/>
-
-**"The best way to learn is to build."**
-
-</div>
+<p align="center"><sub>Divyatmaj Tamhankar · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
