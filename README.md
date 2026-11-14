@@ -1,113 +1,180 @@
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=dark" width="100%" alt="Divyatmaj Tamhankar — profile" />
-  </picture>
 
-<h1>Divyatmaj Tamhankar</h1>
-<p><strong>Frontend or full-stack engineer</strong></p>
-<p>I’m a BTech AI/ML student focused on building things from scratch, from CLI tools to AI agents and developer tools. I work across C, C++, Go, Python, and JS</p>
-<p><sub>Based in D Y Patil Knowledge City, Charholi Budruk, via Lohegaon, Pune – 412105</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:151B35,100:253B80&height=190&section=header&text=DIVYATMAJ&fontSize=55&fontColor=EAF2FF&fontAlignY=42&desc=ENGINEERING%20THE%20UNEXPECTED&descSize=14&descAlignY=68&descColor=8BAAFF" width="100%"/>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
-<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>233</strong><br /><sub>Contributions</sub></td>
-</tr>
-</table>
+<br/>
 
-<p><a href="https://github.com/divyatmaj">GitHub</a></p>
+[![GitHub](https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyatmaj)
+[![Projects](https://img.shields.io/badge/PROJECTS-172554?style=for-the-badge&logo=stackblitz&logoColor=60A5FA)](https://github.com/Divyatmaj?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=divyatmaj&style=for-the-badge&color=312E81&label=VISITORS)](https://github.com/Divyatmaj)
+
+### Software Developer · AI/ML Student · Builder
+
+*Curious about systems. Obsessed with building. Always experimenting.*
+
+<br/>
+
 </div>
 
-<h2>Building in public</h2>
+---
 
-<table width="100%">
+<table>
 <tr>
-<td width="62%" valign="top">
-<p>I’m a BTech AI/ML student focused on building things from scratch, from CLI tools to AI agents and developer tools. I work across C, C++, Go, Python, and JS</p>
-<p><strong>Focus:</strong> JavaScript · TypeScript · CSS</p>
-<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
+<td width="60%" valign="top">
+
+## <img src="https://img.shields.io/badge/01-ABOUT-2563EB?style=flat-square"/> About Me
+
+I'm a BTech student specializing in AI & Machine Learning, passionate about building software from scratch.
+
+I enjoy exploring the intersection of software engineering, intelligent systems, and product development.
+
+- Building applications and developer tools.
+- Exploring AI agents and intelligent systems.
+- Learning backend and systems engineering.
+- Turning ideas into practical products.
+
 </td>
-<td width="38%" valign="top">
-<img src="https://www.gitskins.com/api/section/portrait?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Divyatmaj Tamhankar animated colored ASCII portrait" />
+<td width="40%" valign="middle" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,react,nodejs,linux&perline=4&theme=dark" width="100%"/>
+
+**BASED IN**
+
+Pune, India
+
+**CURRENT FOCUS**
+
+Software Engineering & AI
+
 </td>
 </tr>
 </table>
 
-<h2>What I’m shipping</h2>
+---
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&items=JavaScript%3A%3A23%20public%20repositories%7CElectron-Desktop-Proctoring-Application%3A%3AA%20electron%20Js%20based%20proctoring%20application%20tha%7CImpact%3A%3A1%20stars%20%C2%B7%2064%20active%20days" width="100%" alt="Highlights" />
-</p>
+## <img src="https://img.shields.io/badge/02-TECHNOLOGIES-7C3AED?style=flat-square"/> Tech Arsenal
 
-<h2>Featured work</h2>
+<div align="center">
 
-<table width="100%">
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go&theme=dark"/>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind,electron&theme=dark"/>
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux,bash&theme=dark"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/03-SELECTED%20PROJECTS-0891B2?style=flat-square"/> Things I've Built
+
+<table>
 <tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4" width="100%" alt="Featured projects" />
+<td width="50%" valign="top">
+
+<h3>01. Electron Proctoring</h3>
+
+<img src="https://img.shields.io/badge/ELECTRON-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+A desktop examination monitoring application.
+
+- Tab-switch detection
+- Keyboard shortcut monitoring
+- Desktop-level examination controls
+
+<br/>
+
+<a href="https://github.com/Divyatmaj/Electron-Desktop-Proctoring-Application">↗ EXPLORE PROJECT</a>
+
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Divyatmaj/Electron-Desktop-Proctoring-Application"><strong>Electron-Desktop-Proctoring-Application</strong></a></h3>
-<p>A electron Js based proctoring application that detects if the tabs are switched, ctrl+x or ctrl+q is pressed or some other activities are performed t</p>
-<p><sub>JavaScript · ⭐ 1 stars · 0 forks</sub></p>
-<p><a href="https://github.com/Divyatmaj/Electron-Desktop-Proctoring-Application">View project →</a></p>
+<td width="50%" valign="top">
+
+<h3>02. Student Dropout Prevention</h3>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+An intelligent platform designed to identify students at risk through academic and attendance analytics.
+
+- Academic performance analysis
+- Early risk identification
+- Data-driven interventions
+
+<br/>
+
+<a href="https://github.com/Divyatmaj/Student-Dropout-Prevention-System">↗ EXPLORE PROJECT</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. Yappy Messenger</h3>
+
+<img src="https://img.shields.io/badge/REACT%20NATIVE-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+
+My first mobile application, built while exploring React Native.
+
+- Mobile application development
+- Component-based architecture
+- UI experimentation
+
+<br/>
+
+<a href="https://github.com/Divyatmaj/Yappy-Messenger-App-Mobile-">↗ EXPLORE PROJECT</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. The Workshop</h3>
+
+<img src="https://img.shields.io/badge/EXPERIMENTS-312E81?style=flat-square&logo=github&logoColor=white"/>
+
+A collection of experiments, CLI utilities, automation workflows, AI explorations and developer tools.
+
+<br/><br/>
+
+<a href="https://github.com/Divyatmaj?tab=repositories">↗ EXPLORE ALL REPOSITORIES</a>
+
 </td>
 </tr>
 </table>
 
-<h2>Selected work</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Divyatmaj/Electron-Desktop-Proctoring-Application"><strong>Electron-Desktop-Proctoring-Application</strong></a></h3>
-<p>A electron Js based proctoring application that detects if the tabs are switched, ctrl+x or ctrl+q is pressed or some other activities are performed t</p>
-<p><sub>JavaScript · ⭐ 1</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Divyatmaj/Student-Dropout-Prevention-System"><strong>Student-Dropout-Prevention-System</strong></a></h3>
-<p>An intelligent student dropout prevention platform that identifies at-risk students through academic and attendance analytics, enabling educators to p</p>
-<p><sub>JavaScript · ⭐ 0</sub></p>
-</td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/Divyatmaj/Yappy-Messenger-App-Mobile-"><strong>Yappy-Messenger-App-Mobile-</strong></a></h3>
-<p>A Messenger App made using React Native, My first ever mobile application experimenting the basics of React Native</p>
-<p><sub>JavaScript · ⭐ 0</sub></p>
-</td>
-</tr>
-</table>
+## <img src="https://img.shields.io/badge/04-NEXT%20CHAPTER-7C3AED?style=flat-square"/> Currently Exploring
 
-<h2>Signal</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4" width="100%" alt="1 stars across 23 repositories" />
-</p>
+| Area | Direction |
+|:---|:---|
+| Artificial Intelligence | AI Agents & intelligent applications |
+| Software Engineering | Full-stack & backend systems |
+| Systems | Low-level programming & infrastructure |
+| Product Development | Turning ideas into usable products |
 
-<h2>Stack</h2>
+</div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4" width="100%" alt="Language stack" />
-</p>
+---
 
-<h2>Activity</h2>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=divyatmaj&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214776439%3Fu%3D6cfe0bfce779dbc2980a55480c846b0a73f2bae3%26v%3D4&mode=dark" width="100%" alt="233 contributions in the last year" />
-  </picture>
-</p>
+## HAVE SOMETHING INTERESTING IN MIND?
 
-<hr />
+Building something ambitious? Let's connect.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/divyatmaj">GitHub</a></td>
-</tr>
-</table>
+<a href="https://github.com/Divyatmaj">
+<img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center"><sub>Divyatmaj Tamhankar · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<br/><br/>
+
+<sub>Designed with curiosity. Built with code. Driven by ideas.</sub>
+
+</div>
